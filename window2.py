@@ -23,7 +23,7 @@ mixed = 0.40
 sunny = 0.75
 
 # Config file, persistent configs
-confFile = './window.conf'
+confFile = '/home/pi/Documents/walDo/window.conf'
 
 # Debug, show output
 debug = True
